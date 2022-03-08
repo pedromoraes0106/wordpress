@@ -1,24 +1,24 @@
 # wordpress
 
-pdf do layout do site: [Meu site.pdf](https://github.com/pedromoraes0106/wordpress/files/8201616/Meu.site.pdf)
+PDF do layout do site: [layout_site.pdf](https://github.com/pedromoraes0106/wordpress/files/8201777/layout_site.pdf)
 
 
 Seção #1<br>
 Descrição: Nesse print, pode-se observar o menu e a primeira parte da página do site.
-![print1](https://user-images.githubusercontent.com/92893016/157139445-90a4993d-51e7-4e66-9176-83132fa677b4.jpg)
+![print1](https://user-images.githubusercontent.com/92893016/157142961-4052aa1c-3ba2-4d78-a007-6adb5f0c225e.jpg)
 
 Seção #2<br>
 Descrição: Nesse outro print, pode-se obersevar a segunda seção do site, Projetos.
-![print2](https://user-images.githubusercontent.com/92893016/157139476-21bb5f8b-a11c-4291-a7f8-f83bb58980a4.jpg)
+![print2](https://user-images.githubusercontent.com/92893016/157142974-a7f47c26-91b3-4ff1-aaef-9e671d8c830a.jpg)
 
 Seção #3<br>
 Descrição: Nesse outro print, pode-se obersevar a segunda seção do site, Habilidades.
-![print3](https://user-images.githubusercontent.com/92893016/157139488-9cdf2ce6-7f1c-415c-b7a1-bb665ef64a94.jpg)
+![print3](https://user-images.githubusercontent.com/92893016/157142986-5ecd0a46-fb45-4c73-a904-bb54e5158bfd.jpg)
 
 Seção #4<br>
 Descrição: Nesse outro print, pode-se obersevar a segunda seção do site, Formações e exeperiências.
-![print4](https://user-images.githubusercontent.com/92893016/157139510-63ee69b6-c922-412e-b99d-d7d5a3392449.jpg)
+![print4](https://user-images.githubusercontent.com/92893016/157142993-971304eb-839b-4427-aaa8-d0b223244ffe.jpg)
 
 Seção #5<br>
 Descrição: Nesse outro print, pode-se obersevar a segunda seção do site, Contato.
-![print5](https://user-images.githubusercontent.com/92893016/157139522-053737ff-68c6-45aa-bc9d-9cf625818784.jpg)
+![print5](https://user-images.githubusercontent.com/92893016/157143001-895b2835-67ce-4041-94f3-c568586720da.jpg)
