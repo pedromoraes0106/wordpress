@@ -1,7 +1,7 @@
 # wordpress
 
 Backup do site: https://drive.google.com/file/d/1sWHYE__2y3ZxvhvTQPk6HEq70loeSV8V/view?usp=sharing
-<br>PDF do layout do site: (https://github.com/pedromoraes0106/wordpress/files/8366902/portifolio.do.meu.site.pdf)
+<br>PDF do layout do site: https://github.com/pedromoraes0106/wordpress/files/8366902/portifolio.do.meu.site.pdf
 <br>Link do site: http://pedro-carvalho.soukick.com.br/[portifolio do meu site.pdf](https://github.com/pedromoraes0106/wordpress/files/8366902/portifolio.do.meu.site.pdf)
 
 
