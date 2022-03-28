@@ -1,8 +1,9 @@
 # wordpress
 
-Backup do site: https://drive.google.com/file/d/1Z4xq3w2LDetHc3vdJUCFpukCQs7iUWjR/view?usp=sharing
-<br>PDF do layout do site: [layout_site.pdf](https://github.com/pedromoraes0106/wordpress/files/8201777/layout_site.pdf)
-<br>Link do site: http://pedro-carvalho.soukick.com.br/
+Backup do site: https://drive.google.com/file/d/1sWHYE__2y3ZxvhvTQPk6HEq70loeSV8V/view?usp=sharing
+<br>PDF do layout do site: (https://github.com/pedromoraes0106/wordpress/files/8366902/portifolio.do.meu.site.pdf)
+<br>Link do site: http://pedro-carvalho.soukick.com.br/[portifolio do meu site.pdf](https://github.com/pedromoraes0106/wordpress/files/8366902/portifolio.do.meu.site.pdf)
+
 
 
 Seção #1<br>
