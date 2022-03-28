@@ -1,6 +1,7 @@
 # wordpress
 
-PDF do layout do site: [layout_site.pdf](https://github.com/pedromoraes0106/wordpress/files/8201777/layout_site.pdf)
+Backup do site: https://drive.google.com/file/d/1Z4xq3w2LDetHc3vdJUCFpukCQs7iUWjR/view?usp=sharing
+<br>PDF do layout do site: [layout_site.pdf](https://github.com/pedromoraes0106/wordpress/files/8201777/layout_site.pdf)
 <br>Link do site: http://pedro-carvalho.soukick.com.br/
 
 
