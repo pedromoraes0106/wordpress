@@ -5,7 +5,7 @@ Backup do site: https://drive.google.com/file/d/1sWHYE__2y3ZxvhvTQPk6HEq70loeSV8
 <br>Link do site: http://pedro-carvalho.soukick.com.br/
 
 
-
+<br><b>Página home</b><br>
 
 Seção #1<br>
 Descrição: Nesse print, pode-se observar o menu e a primeira parte da página do site.
@@ -26,3 +26,14 @@ Descrição: Nesse outro print, pode-se obersevar a segunda seção do site, For
 Seção #5<br>
 Descrição: Nesse outro print, pode-se obersevar a segunda seção do site, Contato.
 ![print5](https://user-images.githubusercontent.com/92893016/157143001-895b2835-67ce-4041-94f3-c568586720da.jpg)
+
+
+<br><b>Página Contato</b><br>
+
+Seção #1<br>
+Descrição: Nesse print, pode-se observar o menu, um pedaço do formulário que o usuário irá preencher e a imagem de uma estrada, que tem como significado ligar o usuário com o desenvolvedor da página, assim como a estrada liga duas cidades.
+![image](https://user-images.githubusercontent.com/92893016/161158448-59e058d5-c9f7-4af8-a323-817a8e48487f.png)
+
+Seção #2<br>
+Descrição: Nesse print, pode-se observar o final do formulário e o fim da página "contato".
+![image](https://user-images.githubusercontent.com/92893016/161158674-ca48aed3-39e2-4efa-8d5a-0d17c552713e.png)
