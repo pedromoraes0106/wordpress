@@ -36,4 +36,4 @@ Descrição: Nesse print, pode-se observar o menu, um pedaço do formulário que
 
 Seção #2<br>
 Descrição: Nesse print, pode-se observar o final do formulário e o fim da página "contato".
-![image](https://user-images.githubusercontent.com/92893016/161158674-ca48aed3-39e2-4efa-8d5a-0d17c552713e.png)
+![image](https://user-images.githubusercontent.com/92893016/161158751-99c5a75b-4a3a-4f50-a0fd-106d6fb86ef8.png)
